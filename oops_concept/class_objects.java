@@ -6,7 +6,7 @@ class hi{
 public class class_object_static{
   public void check(int n){
     if(n>0){
-      System.out.println("hello");
+      System.out.println("hello hgit ");
     }
     else{
       System.out.println("no");
@@ -17,7 +17,7 @@ public class class_object_static{
     //class_object_static a = new class_object_static();
     check(7);
     hi.class_object_static b = new hi.class_object_static();
-    
+
   }
 }
 }
