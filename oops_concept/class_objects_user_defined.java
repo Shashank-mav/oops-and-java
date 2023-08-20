@@ -27,6 +27,6 @@ public class class_objects_user_defined {
 
     userPen.write();
 
-
+    // NOW SOMETHING NEW, THIS KEYWORD, SEE IN THE NEXT FILE
   }
 }
